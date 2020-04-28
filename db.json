@@ -1,0 +1,16 @@
+{
+	"users": [
+		{
+			"name": "Omar",
+			"email": "omar@omar.com",
+			"number": "01000000000",
+			"address": "Giza, Egypt",
+			"albums": [
+				{
+					"title": "Album 1",
+					"thumbnail": ""
+				}
+			]
+		}
+	]
+}
