@@ -1,14 +1,42 @@
 {
 	"users": [
 		{
-			"name": "Omar",
-			"email": "omar@omar.com",
-			"number": "01000000000",
-			"address": "Giza, Egypt",
+			"name": "User 1",
+			"email": "user1@flairstech.com",
+			"phone": "01110011222",
+			"address": {
+				"street": "street1",
+				"suite": "suite1",
+				"city": "city1"
+			},
 			"albums": [
 				{
 					"title": "Album 1",
-					"thumbnail": ""
+					"thumbnail": "",
+					"photos": [
+						"https://i.imgur.com/DDrYAf6.jpeg",
+						"https://i.imgur.com/JHgEENh.jpg"
+					]
+				}
+			]
+		},
+		{
+			"name": "User 2",
+			"email": "user2@flairstech.com",
+			"phone": "01110011222",
+			"address": {
+				"street": "street2",
+				"suite": "suite2",
+				"city": "city2"
+			},
+			"albums": [
+				{
+					"title": "Album 2",
+					"thumbnail": "",
+					"photos": [
+						"https://i.imgur.com/xPs7HvV.jpg",
+						"https://i.imgur.com/rbj506z.jpg"
+					]
 				}
 			]
 		}
