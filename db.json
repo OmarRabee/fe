@@ -19,6 +19,33 @@
 						"https://i.imgur.com/DDrYAf6.jpeg",
 						"https://i.imgur.com/JHgEENh.jpg"
 					]
+				},
+				{
+					"id": 2,
+					"title": "Album 2",
+					"thumbnail": "https://i.imgur.com/DDrYAf6.jpeg",
+					"photos": [
+						"https://i.imgur.com/DDrYAf6.jpeg",
+						"https://i.imgur.com/JHgEENh.jpg"
+					]
+				},
+				{
+					"id": 3,
+					"title": "Album 3",
+					"thumbnail": "https://i.imgur.com/DDrYAf6.jpeg",
+					"photos": [
+						"https://i.imgur.com/DDrYAf6.jpeg",
+						"https://i.imgur.com/JHgEENh.jpg"
+					]
+				},
+				{
+					"id": 4,
+					"title": "Album 4",
+					"thumbnail": "https://i.imgur.com/DDrYAf6.jpeg",
+					"photos": [
+						"https://i.imgur.com/DDrYAf6.jpeg",
+						"https://i.imgur.com/JHgEENh.jpg"
+					]
 				}
 			]
 		},
