@@ -70,6 +70,56 @@
 					]
 				}
 			]
+		},
+		{
+			"id": 3,
+			"name": "User 3",
+			"email": "user3@flairstech.com",
+			"phone": "01110011333",
+			"address": {
+				"street": "street3",
+				"suite": "suite3",
+				"city": "city3"
+			},
+			"albums": [
+				{
+					"id": 1,
+					"title": "Sea",
+					"thumbnail": "https://i.imgur.com/sP7lVMs.jpeg",
+					"photos": [
+						"https://i.imgur.com/sP7lVMs.jpeg",
+						"https://i.imgur.com/P0vPH5Q.jpg",
+						"https://i.imgur.com/sP7lVMs.jpeg",
+						"https://i.imgur.com/P0vPH5Q.jpg",
+						"https://i.imgur.com/sP7lVMs.jpeg",
+						"https://i.imgur.com/P0vPH5Q.jpg",
+					]
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "User 4",
+			"email": "user4@flairstech.com",
+			"phone": "01110011444",
+			"address": {
+				"street": "street4",
+				"suite": "suite4",
+				"city": "city4"
+			},
+			"albums": [
+				{
+					"id": 1,
+					"title": "Nature",
+					"thumbnail": "https://i.imgur.com/Bk4pM60.jpg",
+					"photos": [
+						"https://i.imgur.com/Bk4pM60.jpg",
+						"https://i.imgur.com/kjeOYmy.jpg",
+						"https://i.imgur.com/Y0h447z.jpg",
+						"https://i.imgur.com/BRE1o5o.jpg"
+					]
+				}
+			]
 		}
 	]
 }
