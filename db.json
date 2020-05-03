@@ -17,34 +17,38 @@
           "thumbnail": "https://s1.1zoom.me/b5050/625/USA_Sky_Lake_Prescott_Watson_Lake_Arizona_Clouds_583359_1024x768.jpg",
           "photos": [
             "https://s1.1zoom.me/b5050/625/USA_Sky_Lake_Prescott_Watson_Lake_Arizona_Clouds_583359_1024x768.jpg",
-            "https://i.imgur.com/JHgEENh.jpg"
+            "https://s1.1zoom.me/b5050/158/United_Kingdom_Lighthouses_Penmon_Lighthouse_Wales_583266_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/625/USA_Sky_Lake_Prescott_Watson_Lake_Arizona_Clouds_583359_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/158/United_Kingdom_Lighthouses_Penmon_Lighthouse_Wales_583266_1024x768.jpg"
           ]
         },
         {
           "id": 2,
           "title": "Album 2",
-          "thumbnail": "https://i.imgur.com/DDrYAf6.jpeg",
+          "thumbnail": "https://s1.1zoom.me/b5050/995/Ocean_Island_Mountains_Sky_Mauritius_From_above_582975_1024x768.jpg",
           "photos": [
-            "https://i.imgur.com/DDrYAf6.jpeg",
-            "https://i.imgur.com/JHgEENh.jpg"
+            "https://s1.1zoom.me/b5050/995/Ocean_Island_Mountains_Sky_Mauritius_From_above_582975_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/684/Autumn_Forests_Trees_Moss_Foliage_Trunk_tree_582723_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/390/USA_Gardens_Parks_Bridges_Pond_Earl_Burns_Miller_582325_1024x768.jpg",
+            "https://s1.1zoom.me/b5379/916/New_Zealand_Mountains_Water_Wanaka_Otago_Trees_581702_1024x768.jpg"
           ]
         },
         {
           "id": 3,
           "title": "Album 3",
-          "thumbnail": "https://i.imgur.com/DDrYAf6.jpeg",
+          "thumbnail": "https://s1.1zoom.me/b5379/916/New_Zealand_Mountains_Water_Wanaka_Otago_Trees_581702_1024x768.jpg",
           "photos": [
-            "https://i.imgur.com/DDrYAf6.jpeg",
-            "https://i.imgur.com/JHgEENh.jpg"
+            "https://s1.1zoom.me/b5379/916/New_Zealand_Mountains_Water_Wanaka_Otago_Trees_581702_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg"
           ]
         },
         {
           "id": 4,
           "title": "Album 4",
-          "thumbnail": "https://i.imgur.com/DDrYAf6.jpeg",
+          "thumbnail": "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg",
           "photos": [
-            "https://i.imgur.com/DDrYAf6.jpeg",
-            "https://i.imgur.com/JHgEENh.jpg"
+            "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg"
           ]
         }
       ]
@@ -63,10 +67,11 @@
         {
           "id": 2,
           "title": "Album 2",
-          "thumbnail": "",
+          "thumbnail": "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg",
           "photos": [
-            "https://i.imgur.com/xPs7HvV.jpg",
-            "https://i.imgur.com/rbj506z.jpg"
+            "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/995/Ocean_Island_Mountains_Sky_Mauritius_From_above_582975_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/431/Russia_Crimea_Coast_Sea_Crag_Trees_581991_1024x768.jpg"
           ]
         }
       ]
@@ -85,14 +90,14 @@
         {
           "id": 1,
           "title": "Sea",
-          "thumbnail": "https://i.imgur.com/sP7lVMs.jpeg",
+          "thumbnail": "https://s1.1zoom.me/b5050/431/Russia_Crimea_Coast_Sea_Crag_Trees_581991_1024x768.jpg",
           "photos": [
-            "https://i.imgur.com/sP7lVMs.jpeg",
-            "https://i.imgur.com/P0vPH5Q.jpg",
-            "https://i.imgur.com/sP7lVMs.jpeg",
-            "https://i.imgur.com/P0vPH5Q.jpg",
-            "https://i.imgur.com/sP7lVMs.jpeg",
-            "https://i.imgur.com/P0vPH5Q.jpg"
+            "https://s1.1zoom.me/b5050/431/Russia_Crimea_Coast_Sea_Crag_Trees_581991_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/839/Mountains_Stones_Italy_Dolomites_Drei_Zinnen_Crag_581338_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/684/Autumn_Forests_Trees_Moss_Foliage_Trunk_tree_582723_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/684/Autumn_Forests_Trees_Moss_Foliage_Trunk_tree_582723_1024x768.jpg",
+            "https://s1.1zoom.me/b5050/431/Russia_Crimea_Coast_Sea_Crag_Trees_581991_1024x768.jpg"
           ]
         }
       ]
