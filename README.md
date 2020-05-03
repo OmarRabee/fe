@@ -1,6 +1,8 @@
 # AlbumManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+State management done using NgRx.
+UserModule gets lazy loaded.
 
 ## Development server
 
