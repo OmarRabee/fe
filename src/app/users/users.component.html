@@ -1,0 +1,31 @@
+<ngx-spinner>loading..</ngx-spinner>
+<div class="d-flex flex-row top-header">
+  <div class="mr-auto p-2 title">
+    <p>{{ title }}</p>
+  </div>
+  <div class="ml-auto p-2 add-user-btn">
+    <button
+      type="button"
+      class="btn btn-light"
+      data-toggle="modal"
+      data-target="#addUserModal"
+    >
+      +Add User
+    </button>
+  </div>
+</div>
+
+<div *ngIf="users$ | async as users">
+  <app-users-list [users]="users"></app-users-list>
+</div>
+
+<div
+  class="modal fade"
+  id="addUserModal"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="addUserModalLabel"
+  aria-hidden="true"
+>
+  <app-add-user></app-add-user>
+</div>

@@ -1,0 +1,11 @@
+<div class="d-flex justify-content-center top-header">
+  <div class="p-2 bd-highlight header-text">
+    <h4>{{user.name}}</h4>
+  </div>
+  <div class="p-2 bd-highlight header-text">
+    <p>{{user.email}} <br>{{user.phone}}</p>
+  </div>
+  <div class="p-2 bd-highlight header-text">
+    <p>Address <br> {{user.address | addressCombine}}</p>
+  </div>
+</div>

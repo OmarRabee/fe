@@ -1,0 +1,9 @@
+.albums-container {
+  max-width: 75%;
+  margin: auto;
+}
+
+.album-card {
+  cursor: pointer
+}
+
